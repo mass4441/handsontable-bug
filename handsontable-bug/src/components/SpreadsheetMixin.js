@@ -13,6 +13,7 @@ export default {
       hotSettings: {
         data: [],
         customBorders: {},
+        //Comment the columns to make it work as expected
         columns: [
           { type: "text", data: "Tesla", title: "Tesla" },
           { type: "text", data: "Volvo", title: "Volvo" },
